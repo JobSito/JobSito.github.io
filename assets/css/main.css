@@ -115,7 +115,7 @@ input, select, textarea {
 /* Type */
 
 	body {
-		color: #999999;
+		color: #585858;
 	}
 
 	html, input, select, textarea {
@@ -308,7 +308,7 @@ input, select, textarea {
 	}
 
 	input, select, textarea {
-		color: #999999;
+		color: #585858;
 	}
 
 	a {
@@ -321,11 +321,11 @@ input, select, textarea {
 		}
 
 	strong, b {
-		color: #828282;
+		color: #585858;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #828282;
+		color: #555555;
 	}
 
 	blockquote {
@@ -2183,7 +2183,7 @@ input, select, textarea {
 
 	input[type="checkbox"] + label,
 	input[type="radio"] + label {
-		color: #999999;
+		color: #585858;
 	}
 
 		input[type="checkbox"] + label:before,
@@ -2637,7 +2637,7 @@ input, select, textarea {
 			ul.icons.labeled li .icon .label {
 				display: inline-block;
 				vertical-align: middle;
-				color: #999999;
+				color: #585858;
 			}
 
 	@media screen and (max-width: 736px) and (orientation: portrait) {
@@ -3138,7 +3138,7 @@ input, select, textarea {
 
 		.wrapper.style2 {
 			background-color: #fbfbfb;
-			color: #999999;
+			color: #585858;
 		}
 
 			.wrapper.style2 input[type="submit"],
@@ -3222,7 +3222,7 @@ input, select, textarea {
 
 			.wrapper.style2 input[type="checkbox"] + label,
 			.wrapper.style2 input[type="radio"] + label {
-				color: #999999;
+				color: #585858;
 			}
 
 				.wrapper.style2 input[type="checkbox"] + label:before,
@@ -3317,7 +3317,7 @@ input, select, textarea {
 			}
 
 			.wrapper.style2 input, .wrapper.style2 select, .wrapper.style2 textarea {
-				color: #999999;
+				color: #585858;
 			}
 
 			.wrapper.style2 a {
@@ -3352,7 +3352,7 @@ input, select, textarea {
 
 		.wrapper.style3 {
 			background-color: #f7f7f7;
-			color: #999999;
+			color: #585858;
 		}
 
 			.wrapper.style3 input[type="submit"],
@@ -3436,7 +3436,7 @@ input, select, textarea {
 
 			.wrapper.style3 input[type="checkbox"] + label,
 			.wrapper.style3 input[type="radio"] + label {
-				color: #999999;
+				color: #585858;
 			}
 
 				.wrapper.style3 input[type="checkbox"] + label:before,
@@ -3531,7 +3531,7 @@ input, select, textarea {
 			}
 
 			.wrapper.style3 input, .wrapper.style3 select, .wrapper.style3 textarea {
-				color: #999999;
+				color: #585858;
 			}
 
 			.wrapper.style3 a {
@@ -3612,7 +3612,7 @@ input, select, textarea {
 
 	#header {
 		background-color: #6099A9;
-		color: #d1e5f9;
+		color: #ffffff;
 		padding: 4.5em 0 2.5em 0 ;
 		-moz-align-items: center;
 		-webkit-align-items: center;
@@ -4076,14 +4076,14 @@ input, select, textarea {
 
 	#footer {
 		background-color: #f7f7f7;
-		color: #999999;
+		color: #585858;
 		padding: 4.5em 0 2.5em 0 ;
 		color: #b0b0b0;
 		text-align: center;
 	}
 
 		#footer input, #footer select, #footer textarea {
-			color: #999999;
+			color: #585858;
 		}
 
 		#footer a {
